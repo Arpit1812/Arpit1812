@@ -1,75 +1,76 @@
-<h1 align="center">Hi 👋, I'm Arpit Dogra</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💡 AI/GenAI Explorer | 📈 HFT & Algo Trading Enthusiast | 🤝 Open Source Advocate</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arpitdogra/arpitdogra/main/assets/banner.png" alt="banner" width="100%" />
+</p>
 
----
+<h1 align="center">👋 Hi, I’m Arpit Dogra</h1>
+<h3 align="center">Full-Stack Developer • Open-Source Contributor • AI & GenAI Explorer • Algo-Trading Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Building+Tech+that+Solves+Problems!;Lover+of+Code%2C+Systems%2C+and+Markets;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <a href="#about-me"><strong>About Me</strong></a> •
+  <a href="#skills">Skills</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-
-- 🔭 I’m currently working on:  
-  → Smart Web Apps using **Next.js + AWS**  
-  → AI-powered tools with **OpenAI, LangChain, Pinecone**  
-  → Python-based **Algo Trading & Backtesting Systems**
-
-- 🌱 I’m currently learning:  
-  → **HFT System Design**  
-  → **LLMs + Prompt Engineering**  
-  → **Low-Level Performance Optimization (Rust/C++)**
-
-- 💬 Ask me about:  
-  → Full-stack project architecture  
-  → Business automation tools  
-  → Cloud-native deployments  
-  → Algo trading strategies (beginner-level)
-
-- ⚡ Fun fact:  
-  → I believe in "Code. Solve. Ship. Repeat."  
-  → I’ve built products for startups, communities, educators, and even caterers!
+I’m a self-driven **Full-Stack Product Engineer** with a knack for building real-world solutions.  
+🔥 Actively seeking **full-stack roles** & **freelance projects**.  
+🌟 Passionate about **Open Source**, **AI/GenAI**, and **Algorithmic/HFT Trading**.  
+💡 I believe in rapid prototyping, clean code, and data-driven decision making.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,py,django,tailwind,postgres,mongodb,aws,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,py,django,tailwind,postgres,mongodb,aws,docker,git,cpp" />
 </p>
+
+| Domain                    | Tools & Technologies                                                  |
+| ------------------------- | --------------------------------------------------------------------- |
+| **Frontend**              | React · Next.js · TypeScript · Tailwind CSS · Framer Motion           |
+| **Backend & APIs**        | Node.js · Express · Django · Python · GraphQL · REST                  |
+| **Databases**             | PostgreSQL · MongoDB · Firebase · Redis                               |
+| **DevOps & Cloud**        | AWS (EC2, S3, Lambda) · Docker · GitHub Actions · Vercel · Netlify    |
+| **AI & GenAI**            | OpenAI API · LangChain · Pinecone · HuggingFace                       |
+| **Algo-Trading & HFT**    | Python · Pandas · NumPy · Matplotlib · Backtrader · Zipline           |
+| **Tools & Others**        | Git · GitHub · Figma · VSCode · Notion · Jira                         |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitdogra&show_icons=true&theme=radical&count_private=true&hide=stars" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdogra&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitdogra&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arpitdogra&show_icons=true&count_private=true&theme=dark" alt="Arpit's GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdogra&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
 ## ✨ Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Volunteer Dashboard** | Dynamic form system with media uploads & conditional UI | React, Firebase, Cloudinary |
-| **GPT-4 AI Tutor** | GenAI-powered education assistant | Next.js, OpenAI, Pinecone |
-| **Backtesting Engine** | Python-based simulator for trading strategies | Python, Pandas, Matplotlib |
-| **Agency Sites** | 50+ client websites across industries | Full-stack (MERN, Next.js) |
+| Project                | Description                                                   | Tech Stack                      |
+| ---------------------- | ------------------------------------------------------------- | --------------------------------|
+| **GPT-4 AI Tutor**     | GenAI-powered study assistant with semantic search            | Next.js · OpenAI · Pinecone     |
+| **Volunteer Portal**   | Dynamic forms & media uploads for event management            | React · Firebase · Cloudinary   |
+| **Backtester Pro**     | Python framework for backtesting trading strategies           | Python · Pandas · Matplotlib    |
+| **Agency Dashboard**   | Multi-tenant SaaS dashboard for client workflows             | Next.js · Node.js · MongoDB     |
 
 ---
 
-## 🧠 Interests & Domains
+## 📫 Let’s Connect
 
-```txt
-🧩 Full Stack Engineering
-🤖 Artificial Intelligence & GenAI
-📊 Algorithmic & High-Frequency Trading
-🚀 Startup Products & Automation
-🌍 Open Source & Community Learning
+<p align="center">
+  <a href="https://www.linkedin.com/in/arpitdogra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arpitdogra@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://arpitdogra.dev"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github" alt="Portfolio"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arpitdogra/arpitdogra/main/assets/footer.gif" width="100%" alt="Keep Coding" />
+</p>
