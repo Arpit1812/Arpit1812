@@ -38,9 +38,9 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arpitdogra1812&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitdogra1812&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdogra1812&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=arpit1812&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpit1812&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit1812&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
