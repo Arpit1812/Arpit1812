@@ -45,8 +45,9 @@ I’m a self-driven **Full-Stack Product Engineer** with a knack for building re
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=arpitdogra&show_icons=true&count_private=true&theme=dark" alt="Arpit's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdogra&layout=compact&theme=dark" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdogra&layout=compact&theme=dark" alt="Arpit's Top Languages" />
 </p>
+
 
 ---
 
