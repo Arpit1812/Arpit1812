@@ -1,77 +1,66 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpitdogra/arpitdogra/main/assets/banner.png" alt="banner" width="100%" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
+</div>
+
+<h1 align="center">Hi, I'm Arpit Dogra 👋</h1>
+<h3 align="center">Full Stack Developer | Open Source Enthusiast | GenAI Explorer | HFT & Algorithmic Trading Aficionado</h3>
+
+<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arpitdogra&label=Profile%20views&color=0e75b6&style=flat" alt="arpitdogra" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Arpit Dogra</h1>
-<h3 align="center">Full-Stack Developer • Open-Source Contributor • AI & GenAI Explorer • Algo-Trading Enthusiast</h3>
+- 🌐 I’m currently exploring **Full Stack Engineering and Freelance Web Projects**  
+- 💡 I’m fascinated by **AI, GenAI, and Algorithmic Trading**  
+- 🛠️ Always tinkering with tech, APIs, and automation  
+- 🧠 Learning high-frequency trading systems and backend scaling
+- 📬 Open to full-time roles and freelance opportunities!
+
+<br>
+
+<h2>💻 Tech Stack</h2>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<br>
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="#about-me"><strong>About Me</strong></a> •
-  <a href="#skills">Skills</a> •
-  <a href="#stats">Stats</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#contact">Contact</a>
+  <img src="https://streak-stats.demolab.com?user=arpitdogra&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitdogra&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdogra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
-## 👨‍💻 About Me
-I’m a self-driven **Full-Stack Product Engineer** with a knack for building real-world solutions.  
-🔥 Actively seeking **full-stack roles** & **freelance projects**.  
-🌟 Passionate about **Open Source**, **AI/GenAI**, and **Algorithmic/HFT Trading**.  
-💡 I believe in rapid prototyping, clean code, and data-driven decision making.
-
----
-
-## 🚀 Skills & Tech Stack
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,py,django,tailwind,postgres,mongodb,aws,docker,git,cpp" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitdogra&theme=onestar&no-frame=true" width="800" />
 </p>
 
-| Domain                    | Tools & Technologies                                                  |
-| ------------------------- | --------------------------------------------------------------------- |
-| **Frontend**              | React · Next.js · TypeScript · Tailwind CSS · Framer Motion           |
-| **Backend & APIs**        | Node.js · Express · Django · Python · GraphQL · REST                  |
-| **Databases**             | PostgreSQL · MongoDB · Firebase · Redis                               |
-| **DevOps & Cloud**        | AWS (EC2, S3, Lambda) · Docker · GitHub Actions · Vercel · Netlify    |
-| **AI & GenAI**            | OpenAI API · LangChain · Pinecone · HuggingFace                       |
-| **Algo-Trading & HFT**    | Python · Pandas · NumPy · Matplotlib · Backtrader · Zipline           |
-| **Tools & Others**        | Git · GitHub · Figma · VSCode · Notion · Jira                         |
-
----
-
-## 📊 GitHub Stats
+<h2>✨ Badges</h2>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arpitdogra&show_icons=true&count_private=true&theme=dark" alt="Arpit's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdogra&layout=compact&theme=dark" alt="Arpit's Top Languages" />
-</p>
-
-
----
-
-## ✨ Featured Projects
-
-| Project                | Description                                                   | Tech Stack                      |
-| ---------------------- | ------------------------------------------------------------- | --------------------------------|
-| **GPT-4 AI Tutor**     | GenAI-powered study assistant with semantic search            | Next.js · OpenAI · Pinecone     |
-| **Volunteer Portal**   | Dynamic forms & media uploads for event management            | React · Firebase · Cloudinary   |
-| **Backtester Pro**     | Python framework for backtesting trading strategies           | Python · Pandas · Matplotlib    |
-| **Agency Dashboard**   | Multi-tenant SaaS dashboard for client workflows             | Next.js · Node.js · MongoDB     |
-
----
-
-## 📫 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arpitdogra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:arpitdogra@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://arpitdogra.dev"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github" alt="Portfolio"></a>
+  <a href="https://holopin.io/@arpitdogra">
+    <img src="https://holopin.me/arpitdogra" alt="Holopin Badges"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arpitdogra/arpitdogra/main/assets/footer.gif" width="100%" alt="Keep Coding" />
+🚀 *Always building. Always learning.*
 </p>
