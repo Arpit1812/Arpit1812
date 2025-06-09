@@ -58,7 +58,7 @@
 
 <br>
 
-<h2>🏆 GitHub Trophies</h2>
+<!-- <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arpitd1812&theme=onestar&no-frame=true" width="800" />
@@ -70,9 +70,10 @@
   <a href="https://holopin.io/@arpitd1812">
     <img src="https://holopin.me/arpitd1812" alt="Holopin Badges"/>
   </a>
-</p>
+</p> 
+--!>
 
----
+
 
 <p align="center">
 🚀 *Always building. Always learning.*
