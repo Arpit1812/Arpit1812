@@ -61,14 +61,14 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitdogra&theme=onestar&no-frame=true" width="800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitd1812&theme=onestar&no-frame=true" width="800" />
 </p>
 
 <h2>✨ Badges</h2>
 
 <p align="center">
-  <a href="https://holopin.io/@arpitdogra">
-    <img src="https://holopin.me/arpitdogra" alt="Holopin Badges"/>
+  <a href="https://holopin.io/@arpitd1812">
+    <img src="https://holopin.me/arpitd1812" alt="Holopin Badges"/>
   </a>
 </p>
 
