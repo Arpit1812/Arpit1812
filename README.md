@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Arpit Dogra 👋</h1>
 <h3 align="center">Full Stack Developer | Open Source Enthusiast | GenAI Explorer | HFT & Algorithmic Trading Aficionado</h3>
 
-<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad">
+<img align="right" width="280" src="https://github.com/Arpit1812/Arpit1812/blob/main/github%20profile%20image.jpeg">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arpitdogra&label=Profile%20views&color=0e75b6&style=flat" alt="arpitdogra" />
